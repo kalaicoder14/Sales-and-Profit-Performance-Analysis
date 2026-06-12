@@ -1,4 +1,4 @@
-# Sales-and-Profit-Performance-Analysis
+# Sales-and-Profit-Performance-Analysis using power bi
 1.clean the Dataset using Power Query
 2.create the DAX
 3.create the new colunm
